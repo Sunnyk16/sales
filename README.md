@@ -12,3 +12,14 @@ public class t2 {
 } 
 ```
 
+```
+public class numprint {
+    public static void printnumbers(){
+         for (Integer i = 1; i <= 10; i++) {
+            System.debug(i);
+        }
+    }
+
+}
+```
+numprint.printnumbers();
